@@ -4,11 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>회원가입</title>
+<title>저는 자유입니다.</title>
 </head>
 <body>
-	저는 member.jsp입니다.
-	
-	${mname }
+저는 자유입니다.
 </body>
 </html>

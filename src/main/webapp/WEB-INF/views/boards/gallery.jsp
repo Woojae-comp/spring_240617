@@ -4,11 +4,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>회원가입</title>
+<title>갤러리 게시판</title>
 </head>
 <body>
-	저는 member.jsp입니다.
-	
-	${mname }
+
+
+
 </body>
 </html>
